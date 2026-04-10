@@ -21,7 +21,7 @@ Este sistema permite gestionar las operaciones principales de un gimnasio, inclu
 El proyecto está estructurado siguiendo **Clean Architecture**, separando responsabilidades en distintas capas:
 
 ```
-GymApp
+ProyectoTIF
 │
 ├── ProyectoTIF.API             → Capa de presentación (Web API)
 ├── ProyectoTIF.Application     → Casos de uso
@@ -39,7 +39,7 @@ GymApp
 
 ## 🚀 Tecnologías utilizadas
 
-* .NET 6/7/8
+* .NET 10
 * ASP.NET Core Web API
 * Entity Framework Core
 * SQL Server (o cualquier DB relacional)
